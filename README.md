@@ -56,7 +56,6 @@ Financial fraud undermines market integrity and causes substantial losses. Tradi
 
 ## Repository Contents
 
-- **Article**: Detailed findings and methodologies (`article.pdf`).
 - **Code**: Implementations of ML, DL, and LLM models.
 - **Data**: Pre-processed datasets and annotations for financial fraud detection.
 
